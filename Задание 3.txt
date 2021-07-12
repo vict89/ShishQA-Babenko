@@ -1,0 +1,67 @@
+        Font	Font style	Size	Font color	Underline style	Effects
+	Onyx	{regular	12	{black}	{none}	Double Strikethrough
+	{NSimSun	italic	10	{black}	{none}	{Strikethrough
+	Old English Text MT	bold_italic}	11	{black}	{none}	{Strikethrough
+	Palatino Linotype}	bold	{8	{black}	{none}	Emboss
+	Nyala	bold	12	{black}	{none}	{Strikethrough
+	Palatino Linotype}	{regular	11	{black}	{none}	Hidden}
+	Nyala	italic	11	{black}	{none}	Outline
+	Onyx	bold_italic}	10	{black}	{none}	Outline
+	Old English Text MT	bold	9	{black}	{none}	Hidden}
+	Onyx	italic	13.5}	{black}	{none}	Small caps
+	{NSimSun	bold	11	{black}	{none}	Subscript
+	{NSimSun	bold_italic}	9	{black}	{none}	Double Strikethrough
+	Old English Text MT	{regular	10	{black}	{none}	Emboss
+	Nyala	{regular	13.5}	{black}	{none}	Subscript
+	Palatino Linotype}	bold_italic}	13.5}	{black}	{none}	Engrave
+	Old English Text MT	bold	13.5}	{black}	{none}	Double Strikethrough
+	Palatino Linotype}	italic	12	{black}	{none}	Superscript
+	Nyala	bold_italic}	13.5}	{black}	{none}	Emboss
+	{NSimSun	{regular	13.5}	{black}	{none}	Superscript
+	Palatino Linotype}	bold	10	{black}	{none}	Small caps
+	Old English Text MT	italic	10	{black}	{none}	Subscript
+	Onyx	bold	13.5}	{black}	{none}	All caps
+	Nyala	italic	{8	{black}	{none}	Double Strikethrough
+	Old English Text MT	bold_italic}	12	{black}	{none}	All caps
+	{NSimSun	bold	12	{black}	{none}	Engrave
+	Palatino Linotype}	bold_italic}	10	{black}	{none}	Double Strikethrough
+	Onyx	{regular	9	{black}	{none}	Superscript
+	Onyx	bold_italic}	{8	{black}	{none}	Hidden}
+	Nyala	{regular	10	{black}	{none}	All caps
+	Onyx	italic	11	{black}	{none}	Shadow
+	Nyala	italic	9	{black}	{none}	Shadow
+	{NSimSun	bold_italic}	11	{black}	{none}	Double Strikethrough
+	Onyx	bold_italic}	12	{black}	{none}	Subscript
+	{NSimSun	{regular	{8	{black}	{none}	Small caps
+	Palatino Linotype}	{regular	9	{black}	{none}	{Strikethrough
+	Nyala	italic	12	{black}	{none}	Hidden}
+	Old English Text MT	italic	{8	{black}	{none}	Engrave
+	Old English Text MT	{regular	{8	{black}	{none}	Shadow
+	{NSimSun	italic	9	{black}	{none}	All caps
+	Palatino Linotype}	bold_italic}	11	{black}	{none}	All caps
+	{NSimSun	italic	{8	{black}	{none}	All caps
+	{NSimSun	{regular	10	{black}	{none}	Hidden}
+	Old English Text MT	bold	{8	{black}	{none}	Outline
+	Nyala	bold_italic}	12	{black}	{none}	Small caps
+	{NSimSun	bold_italic}	12	{black}	{none}	Shadow
+	{NSimSun	italic	11	{black}	{none}	Emboss
+	Palatino Linotype}	bold_italic}	{8	{black}	{none}	Subscript
+	Onyx	{regular	9	{black}	{none}	Engrave
+	Old English Text MT	bold	{8	{black}	{none}	Superscript
+	Palatino Linotype}	bold	10	{black}	{none}	Shadow
+	Onyx	bold_italic}	{8	{black}	{none}	{Strikethrough
+	Old English Text MT	{regular	11	{black}	{none}	Small caps
+	{NSimSun	{regular	12	{black}	{none}	Outline
+	Onyx	{regular	12	{black}	{none}	Emboss
+	{NSimSun	bold_italic}	9	{black}	{none}	Emboss
+	Palatino Linotype}	italic	9	{black}	{none}	Outline
+	Nyala	bold_italic}	10	{black}	{none}	Superscript
+	Nyala	bold_italic}	13.5}	{black}	{none}	Hidden}
+	Old English Text MT	bold_italic}	9	{black}	{none}	Small caps
+	Nyala	bold	10	{black}	{none}	Engrave
+	Nyala	italic	11	{black}	{none}	Engrave
+	Old English Text MT	bold_italic}	13.5}	{black}	{none}	Shadow
+	Onyx	bold_italic}	9	{black}	{none}	Subscript
+	Onyx	bold	13.5}	{black}	{none}	{Strikethrough
+	Onyx	italic	11	{black}	{none}	Superscript
+	{NSimSun	bold	13.5}	{black}	{none}	Outline
